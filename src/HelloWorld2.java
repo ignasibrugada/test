@@ -9,5 +9,10 @@ public class HelloWorld2 {
 		// TODO Auto-generated method stub
 		System.out.println("ignasi");
 		System.out.println("helloWorld");
+		
+		/**
+		 * commit 2
+		 */
+		System.out.println("commit 2");
 	}
 }
